@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Maurya</h1>
-<h3 align="center">A passionate competative Programmer from India</h3>
+<h3 align="center">Enthusiastic learner competative Programmer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-m15&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-m15" /> </p>
 
